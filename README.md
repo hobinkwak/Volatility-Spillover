@@ -39,7 +39,9 @@ wandb==0.12.9
 
 - 김다정
 > email : ohhappy12@korea.ac.kr
+> 
 > github : github.com/githubhapi1
 - 곽호빈
 > high0802@naver.com
+> 
 > github : github.com/hobinkwak
