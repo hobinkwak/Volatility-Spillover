@@ -38,6 +38,8 @@ wandb==0.12.9
 ### Team
 
 - 김다정
-> ohhappy12@korea.ac.kr
+> email : ohhappy12@korea.ac.kr
+> github : github.com/githubhapi1
 - 곽호빈
 > high0802@naver.com
+> github : github.com/hobinkwak
