@@ -42,6 +42,6 @@ wandb==0.12.9
 > 
 > github : github.com/githubhapi1
 - 곽호빈
-> high0802@naver.com
+> email : high0802@naver.com
 > 
 > github : github.com/hobinkwak
